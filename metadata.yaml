@@ -1,5 +1,8 @@
 _repo: Maria-or-the-Wrongs-of-Woman_134
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wollstonecraft, Mary
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/84
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/134#Maria-or-the-Wrongs-of-Woman
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
 identifiers:
